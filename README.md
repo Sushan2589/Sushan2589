@@ -22,7 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushan2589&" alt="sushan2589" /></p>
 
-[![An image of @sushan2589's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sushan2589)](https://holopin.io/@sushan2589)
+[![@sushan2589's Holopin badges](https://holopin.me/sushan2589)](https://holopin.io/@sushan2589)
 
 
 
