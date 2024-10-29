@@ -21,6 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushan2589&show_icons=true&locale=en" alt="sushan2589" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushan2589&" alt="sushan2589" /></p>
+
 [![An image of @sushan2589's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sushan2589)](https://holopin.io/@sushan2589)
 
 
